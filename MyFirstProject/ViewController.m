@@ -13,6 +13,7 @@
 @end
 
 @implementation ViewController
+@synthesize aString=_aString;
 
 - (void)viewDidLoad
 {
